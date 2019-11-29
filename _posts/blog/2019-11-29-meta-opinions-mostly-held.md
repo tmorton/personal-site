@@ -27,7 +27,7 @@ Yes, the scale starts at 0 - because we're programmers, but also because a 0-poi
 
 This is where most work happens, but it's still a range.  For example, let's consider a code review.  If I suggest a five-line simplification, that's probably a 3.  I'm pretty sure it will work - but I haven't applied the change and run the tests.  I'm pretty sure it makes the code better, but I'd listen to an opposing argument.  Either way, this is just a discussion between two engineers.  
 
-For a larger example, let's say my team is developing a new feature.  I may write a high-level "vision" for the work - similar to the pitch in Basecamp's "Shape Up" process.  For the first draft, I might have a 4-level conviction that this is the right approach.  As other team members help to improve it, I may go up to a 5 or 6 - strong enough to cheerlead the work into our roadmap.
+For a larger example, let's say my team is developing a new feature.  I may write a high-level "vision" for the work - similar to [the pitch](https://basecamp.com/shapeup/1.5-chapter-06) in Basecamp's "Shape Up" process.  For the first draft, I might have a 4-level conviction that this is the right approach.  As other team members help to improve it, I may go up to a 5 or 6 - strong enough to cheerlead the work into our roadmap.
 
 ### 7-10: The Serious Stuff
 
