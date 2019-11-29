@@ -21,7 +21,7 @@ The two factors (certainty and caring) both feed into a 10 point scale.  If I'm 
 
 ### 0-2: The Minor Leagues
 
-Yes, the scale starts at 0 - because we're programmers, but also because a 0-point opinion is a useful thing to have.  It's reserved for explicitly "safe spaces" like brainstorming sessions.  I'm usually a reserved sort of person, but sometimes it's worth throwing out ideas with no filter.  And hey, maybe we *should* rewrite everything in Javascript?
+Yes, the scale starts at 0 - because we're programmers, but also because a 0-point opinion is a useful thing to have.  It's reserved for explicitly "free-form spaces" like brainstorming sessions.  I'm usually a reserved sort of person, but sometimes it's worth throwing out ideas with no filter.  And hey, maybe we *should* rewrite everything in Javascript?
 
 ### 3-6: Normal Life
 
