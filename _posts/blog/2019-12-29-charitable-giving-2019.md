@@ -16,7 +16,7 @@ I've been following Ezra Klein's [podcast](https://www.vox.com/ezra-klein-show-p
 
 The other serious voting reform effort is [FairVote](https://www.fairvote.org/), which advocates for ranked choice voting (RCV).  I looked at the case for RCV, and it doesn't address my concern - in fact, it may make polarization worse.  The problem is the ["center squeeze" effect](https://www.electionscience.org/library/the-center-squeeze-effect/).  If there is a compromise candidate, acceptable to most voters, I want that canditate to win - even if they are no one's first choice.  
 
-I thought long and hard about directing some of my "charity" budget to a political organization, instead of the truly poor.  It's a long-term bet, with very uncertain benefits.  But the US economy and political system are geese laying golden eggs - both for the world and for me personally.  I think this is justified, because a more functional government in the US would be a huge benefit to everyone.  
+I thought long and hard about directing some of my "charity" budget to a political organization, instead of the truly poor.  It's a long-term bet, with very uncertain benefits.  I think it's justified, because a more functional government in the US would be a huge benefit to everyone.  
 
 ## [Evidence Action](https://www.evidenceaction.org/) (~45% of my budget)
 
