@@ -22,7 +22,7 @@ I thought long and hard about directing some of my "charity" budget to a politic
 
 Here's my money for global poverty - my attempt to do the most good, for the most people, right now.  One EA program is a GiveWell top charity.  
 
-I gave directly to EA with no string attached, without directing my donation to a particular program.  To qualify for Givewell's endorsement, a program needs seriously proven effectiveness.  That takes time and money.  EA runs several programs, including their "accelerator" which tries new small-scale initiatives.  More importantly, EA is committed to doing the most good possible, and they have shut down programs that failed to show results.  I'm trusting the folks at EA to place bets where reasonable, and double down on the programs that work.  
+I gave directly to EA, without directing my donation to a particular program.  To qualify for Givewell's endorsement, a program needs seriously proven effectiveness.  That takes time and money.  EA runs several programs, including their "accelerator" which tries new small-scale initiatives.  More importantly, EA is committed to doing the most good possible, and they have shut down programs that failed to show results.  I'm trusting the folks at EA to place bets where reasonable, and double down on the programs that work.  
 
 ## Other Small Donations
 
