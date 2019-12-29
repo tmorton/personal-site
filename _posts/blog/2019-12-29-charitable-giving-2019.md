@@ -4,7 +4,7 @@ title: Charitable Giving 2019
 tags: []
 ---
 
-So it's the end of the year, when we all gather together and appreciate the true meaning of the season - tax deductions.  Oh, and also kindness, love, respect and all that jazz.
+So it's the end of the year, when we all gather together and appreciate the true meaning of the season - tax deductions.  Oh, and also peace, goodwill, and all that jazz.
 
 In the past, I've generally followed [Givewell](https://www.givewell.org/)'s recommendations, and donated through them to a "most good per dollar" charity.  I still think they're a great option.  But this year I'm doing something a little different. 
 
