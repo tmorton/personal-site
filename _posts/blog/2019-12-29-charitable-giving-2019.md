@@ -14,7 +14,7 @@ The CES advocates for better voting systems - specifically, [approval voting](ht
 
 I've been following Ezra Klein's [podcast](https://www.vox.com/ezra-klein-show-podcast), and I've become deeply concerned about polarization in politics.  Two sides, with their own hardcore fans, their own media, and their own facts.  Approval voting can't solve the whole issue, but it's a step in the right direction.  
 
-The other serious voting reform effort is [FairVote](https://www.fairvote.org/), which advocates for ranked choice voting (RCV).  I looked at the case for RCV, and it doesn't address my concern - in fact, it may make polarization worse.  The problem is the ["center squeeze" effect](https://www.electionscience.org/library/the-center-squeeze-effect/).  If there is a compromise candidate, acceptable to most voters, I want that canditate to win - even if they are no one's first choice.  
+The other serious voting reform effort is [FairVote](https://www.fairvote.org/), which advocates for ranked choice voting (RCV).  I looked at the case for RCV, and it doesn't address my concern - in fact, it may make polarization worse.  The problem is the ["center squeeze" effect](https://www.electionscience.org/library/the-center-squeeze-effect/).  If there is a compromise candidate, acceptable to most voters, I want that candidate to win - even if they are no one's first choice.  
 
 I thought long and hard about directing some of my "charity" budget to a political organization, instead of the truly poor.  It's a long-term bet, with very uncertain benefits.  I think it's justified, because a more functional government in the US would be a huge benefit to everyone.  
 
