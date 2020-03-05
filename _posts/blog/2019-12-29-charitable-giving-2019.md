@@ -2,7 +2,6 @@
 layout: post
 title: Charitable Giving 2019
 tags: []
-published: false
 ---
 
 So it's the end of the year, when we all gather together and appreciate the true meaning of the season - tax deductions.  Oh, and also peace, goodwill, and all that jazz.
