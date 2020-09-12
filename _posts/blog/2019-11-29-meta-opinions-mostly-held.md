@@ -3,9 +3,11 @@ layout: post
 title: Meta Opinions, Mostly Held
 tags: []
 ---
-If you're in the software industry, you've probably heard the expression "strong opinions, weakly held".  If you're hanging around software discussion sites, you've probably seen the article calling it [the worst idea in tech](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/).  Michael Natkin points out that if you have "strong opinions", it's very difficult to actually keep them "weakly held".  More importantly, it's nearly impossible to communicate the "weakly held" part.  An engineer with loud, strongly stated opinions can shut down discussion before it starts, and prevent valuable voices from being heard.  
+If you're in the software industry, you've probably heard the expression "strong opinions, weakly held".  If you hang around software discussion sites, you've probably seen the article calling it [the worst idea in tech](https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/).  
 
-Michael suggests adding an uncertainty measurement to your statements.  "I'm 90% sure MongoDB is the wrong choice", or "I'm 40% that the bug is in this method".  
+If you have "strong opinions", keeping them "weakly held" is difficult.  More importantly, communicating "weakly held" is nearly impossible.  Anyone with loud, strong opinions can shut down discussion, preventing others' voices from being heard.  
+
+Michael suggests adding an uncertainty measurement to your statements.  "I'm 90% sure we should use Postgres over Mongo", or "I'm 40% that the bug is in this method".  
 
 Around the same time, Camille Fournier wrote a post about [Other People's Problems](http://www.elidedbranches.com/2019/05/opp-other-peoples-problems.html).  Every company has problems, and everyone has opinions about those problems.  When should you get involved, and when should you stay silent?  How hard should you push when another team's problem affects your team?  Camille outlines five steps to navigate these delicate situations.  
 
